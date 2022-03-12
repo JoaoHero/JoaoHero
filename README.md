@@ -23,6 +23,6 @@
   <a href = "https://www.facebook.com/joaovitor.silvaramos.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   <a href=https://www.linkedin.com/in/joao-vitor-s-8b4486112/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/joaoHero/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/joaoHero/blob/output/github-contribution-grid-snake.svg)
  
 </div>
