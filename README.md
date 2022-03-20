@@ -3,6 +3,7 @@
 -  ✔️ Estudando e se dedicando em Front End
 -  📜 Dominio de Html e Css 
 -  🤪 Estudando Java Script
+-  👌  Primeiro semeste de Analise e desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/JoaoHero">
