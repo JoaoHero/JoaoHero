@@ -2,7 +2,7 @@
 
 -  ✔️ Especializando em Front End
 -  📜 Dominio de Html e Css 
--  👌  foco em Java Script
+-  👌  foco em JavaScript
 -  👉 Estudando React JS
 
 <div align="center">
