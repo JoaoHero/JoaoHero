@@ -1,8 +1,8 @@
 <h1>Joao Ramos, front-end Developer</h1>
 
 -  ✔️ Especializando-se em Front End
--  📜 Dominio de Html e Css 
--  👌  foco em JavaScript
+-  📜 Dominio de Html e Css e Design responsivo
+-  👌 foco em JavaScript
 -  👉 Estudando React JS
 -  😎 DevOps Trainee
 
