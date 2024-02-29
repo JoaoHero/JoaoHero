@@ -27,7 +27,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Css
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React
-   <i class="devicon-mysql-plain-wordmark"></i>
+   
 </div>
   <br>
   <br>
@@ -35,8 +35,6 @@
   <a href="https://instagram.com/joao_heroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.facebook.com/joaovitor.silvaramos.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   <a href = "https://www.linkedin.com/in/joao-vitor-r-8b4486112/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JoaoHero/JoaoHero/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
