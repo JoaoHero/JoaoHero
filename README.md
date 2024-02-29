@@ -21,13 +21,14 @@
 </div>
   
  <div style="display: inline_block"><br>
-    <h1>Linguagens que mais estudo</h1>
+    <h1>O que ando estudando</h1>
    <br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">Html
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Css
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React
- 
+   ![image](https://github.com/JoaoHero/JoaoHero/assets/101435425/ff27d3be-399c-48e9-83c1-67930e6ee3bb)Mysql
+
 </div>
   <br>
   <br>
