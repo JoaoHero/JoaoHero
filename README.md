@@ -4,7 +4,7 @@
 -  📜 Dominio de Html e Css e Design responsivo
 -  👌 foco em JavaScript
 -  👉 Estudando React JS
--  😎 DevOps Trainee
+-  😎 Automation Team
 
 <div align="center">
   
@@ -16,7 +16,8 @@
   
    <div style="display: inline_block"><br>
     <h2>👨‍🎓 Sobre mim</h2>
-   <span>Sou um estudante de Análise e Desenvolvimento de Sistemas com um entusiasmo incomparável por aprender e explorar novos conhecimentos. Meu foco principal é me tornar um desenvolvedor front-end altamente      qualificado. Tenho dedicado meu tempo e energia em aprimorar minhas habilidades nessa área, buscando constantemente novas tecnologias e tendências do setor. Estou entusiasmado em enfrentar desafios e colaborar em projetos que envolvam o desenvolvimento de interfaces de usuário atraentes e funcionais. Com uma sólida base em programação e um olhar atento aos detalhes, estou determinado a criar experiências digitais envolventes e intuitivas para os usuários.</span>    
+
+     <span>Sou um estudante de Análise e Desenvolvimento de Sistemas com um entusiasmo incomparável por aprender e explorar novos conhecimentos. Inicialmente, meu foco principal era me tornar um desenvolvedor front-end altamente qualificado. No entanto, com minha vontade e curiosidade incessantes para aprender mais, expandi meu horizonte e agora estou focado tanto no desenvolvimento front-end quanto no back-end. Tenho dedicado meu tempo e energia em aprimorar minhas habilidades nessas áreas, buscando constantemente novas tecnologias e tendências do setor. Estou entusiasmado em enfrentar desafios e colaborar em projetos que envolvam o desenvolvimento de interfaces de usuário atraentes e funcionais, bem como a criação de sistemas robustos e eficientes nos bastidores. Com uma sólida base em programação e um olhar atento aos detalhes, estou determinado a criar experiências digitais envolventes e intuitivas para os usuários.</span> 
      
 </div>
   
