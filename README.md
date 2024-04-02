@@ -1,10 +1,9 @@
 <h1>Joao Ramos, front-end Developer</h1>
 
--  ✔️ Especializando-se em Front End
--  📜 Dominio de Html e Css e Design responsivo
--  👌 foco em JavaScript
--  👉 Estudando React JS
--  😎 Automation Team
+-  💻 Especializando em Desenvolvimento Web
+-  📱 Design Responsivo
+-  🚀 Proficiente em JavaScript e com Foco em React JS
+-  💼 Integrante de Equipe de Automação: Simplificando Processos
 
 <div align="center">
   
@@ -22,7 +21,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-    <h1>O que ando estudando</h1>
+    <h1>Principais Tecnologias</h1>
    <br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">Html
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Css
