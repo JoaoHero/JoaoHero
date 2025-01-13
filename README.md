@@ -1,4 +1,4 @@
-<h1>Joao Ramos, web Developer</h1>
+<h1>Joao Ramos, web developer</h1>
 
 -  💻 Especializando em Desenvolvimento Web
 -  📱 Design Responsivo
