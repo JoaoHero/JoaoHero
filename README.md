@@ -1,9 +1,8 @@
-<h1>Joao Ramos, web developer</h1>
+<h1>João Ramos — Full Stack Web Developer</h1>
 
--  💻 Especializando em Desenvolvimento Web
--  📱 Design Responsivo
--  🚀 Proficiente em JavaScript e com Foco em React JS
--  💼 Integrante de Equipe de Automação: Simplificando Processos
+💻 Desenvolvedor Full Stack com foco em Angular e Node.js
+🚀 Apaixonado por criar interfaces responsivas e sistemas performáticos
+🎯 Sempre em busca de desafios e aprendizado contínuo
 
 <div align="center">
   
