@@ -15,7 +15,16 @@
    <div style="display: inline_block"><br>
     <h2>👨‍🎓 Sobre mim</h2>
 
-<span>Sou um estudante de Análise e Desenvolvimento de Sistemas com um entusiasmo incomparável por aprender e explorar novos conhecimentos. Inicialmente, meu foco principal era me tornar um desenvolvedor front-end altamente qualificado. No entanto, com minha vontade e curiosidade incessantes para aprender mais, expandi meu horizonte e agora estou focado tanto no desenvolvimento front-end quanto no back-end. Tenho dedicado meu tempo e energia em aprimorar minhas habilidades nessas áreas, buscando constantemente novas tecnologias e tendências do setor. Estou entusiasmado em enfrentar desafios e colaborar em projetos que envolvam o desenvolvimento de interfaces de usuário atraentes e funcionais, bem como a criação de sistemas robustos e eficientes nos bastidores. Com uma sólida base em programação e um olhar atento aos detalhes, estou determinado a criar experiências digitais envolventes e intuitivas para os usuários.</span> 
+<span>Sou um **Desenvolvedor Full Stack** especializado em **Angular** e **Node.js**, com experiência em criar aplicações modernas, eficientes e responsivas.
+
+🎓 Atualmente estudo **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao aprimoramento constante das minhas habilidades, explorando novas tecnologias e boas práticas do desenvolvimento web.
+
+💡 Minha jornada começou com o **Front-end**, mas a curiosidade e a vontade de entender o todo me levaram também ao **Back-end**, onde encontrei o equilíbrio ideal entre lógica e criatividade.
+
+🚀 Tenho interesse especial em:
+- Desenvolvimento **Full Stack** com Angular e Node.js  
+- **Automação de processos** e otimização de fluxos de trabalho  
+- **UX/UI** e criação de experiências digitais envolventes</span> 
      
 </div>
   
