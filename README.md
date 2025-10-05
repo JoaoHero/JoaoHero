@@ -1,8 +1,8 @@
 <h1>João Ramos — Full Stack Web Developer</h1>
 
-💻 Desenvolvedor Full Stack com foco em Angular e Node.js
-🚀 Apaixonado por criar interfaces responsivas e sistemas performáticos
-🎯 Sempre em busca de desafios e aprendizado contínuo
+- 💻 Desenvolvedor Full Stack com foco em Angular e Node.js
+- 🚀 Apaixonado por criar interfaces responsivas e sistemas performáticos
+- 🎯 Sempre em busca de desafios e aprendizado contínuo
 
 <div align="center">
   
