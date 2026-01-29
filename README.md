@@ -5,8 +5,8 @@
 - 🎯 Sempre em busca de desafios e aprendizado contínuo
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlyaWZreHB0YmhmaW05ZDE3NGNsbGhlcnQydGdocHV5NDcwdHV6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8DfVAblirrOg/giphy.gif" width="50%">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkwMnFnMXhlaTU0Z24xMzZnaGhuYzBwOGZnNmtsMjh1aHpzdjc4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QC7UQbxq89MnL9r6AN/giphy.gif" alt="BreakingBad gif" width="50%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlyaWZreHB0YmhmaW05ZDE3NGNsbGhlcnQydGdocHV5NDcwdHV6eiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/a8DfVAblirrOg/giphy.gif" width="400" style="display:inline-block; margin-right:20px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkwMnFnMXhlaTU0Z24xMzZnaGhuYzBwOGZnNmtsMjh1aHpzdjc4diZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/QC7UQbxq89MnL9r6AN/giphy.gif" width="400" style="display:inline-block;">
 </div>
   
    <div style="display: inline_block"><br>
